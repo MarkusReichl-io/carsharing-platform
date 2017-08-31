@@ -1,0 +1,25 @@
+{
+  "name": "carsharingplatform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkusReichl-io/carsharing-platform.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkusReichl-io/carsharing-platform/issues"
+  },
+  "homepage": "https://github.com/MarkusReichl-io/carsharing-platform#readme",
+  "dependencies": {
+    "cookie-session": "^1.3.1",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.9",
+    "nodemon": "^1.11.0"
+  }
+}
